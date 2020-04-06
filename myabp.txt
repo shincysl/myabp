@@ -1,4 +1,6 @@
 [Adblock Plus 2.0]
+! Title: myabp.txt
+! Expires: 1 days (update frequency)
 microad.net/
 microad.jp/
 microadinc.com/
