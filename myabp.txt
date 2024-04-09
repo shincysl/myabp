@@ -10,6 +10,7 @@ shinobi.jp/
 twitter.com/
 twimg.com/
 facebook.net/
+gravatar.com/
 google-analytics.com/
 onetrust.com/
 gamewith.jp##.to-btn--nps
