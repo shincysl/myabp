@@ -16,3 +16,4 @@ onetrust.com/
 gamewith.jp##.to-btn--nps
 gamewith.jp##.grecaptcha-badge
 ncode.syosetu.com##.p-new-impression
+ncode.syosetu.com###nav-reaction
