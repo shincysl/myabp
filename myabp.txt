@@ -12,6 +12,7 @@ twimg.com/
 facebook.net/
 gravatar.com/
 google-analytics.com/
+googletagmanager.com/
 onetrust.com/
 gamewith.jp##.to-btn--nps
 gamewith.jp##.grecaptcha-badge
