@@ -18,4 +18,4 @@ gamewith.jp##.to-btn--nps
 gamewith.jp##.grecaptcha-badge
 ncode.syosetu.com##.p-new-impression
 ncode.syosetu.com###nav-reaction
-www.bilibili.com##.recommended-swipe
+bilibili.com##.recommended-swipe
