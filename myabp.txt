@@ -17,3 +17,4 @@ gamewith.jp##.grecaptcha-badge
 ncode.syosetu.com##.p-new-impression
 ncode.syosetu.com###nav-reaction
 bilibili.com##.recommended-swipe
+||img.dlsite.jp/modpub/images2/work/doujin/rj0*_img_main.jpg$badfilter
