@@ -18,5 +18,5 @@ ncode.syosetu.com##.p-new-impression
 ncode.syosetu.com###nav-reaction
 bilibili.com##.recommended-swipe
 bilibili.com##.single-card.floor-card
-play.dlsite.com##[aria-busy="true"]
+play.dlsite.com##div[aria-busy="true"]
 ||img.dlsite.jp/modpub/images2/work/doujin/rj0*_img_main.jpg$badfilter
